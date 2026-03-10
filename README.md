@@ -46,10 +46,8 @@ New password mode: After entering the temporary code, create a new 4-digit passw
 Voice commands for closing the box: You can say “close”, “lock”, or “shutdown” to trigger the box closing.
 
 🧰 Hardware Requirements
+
 Arduino board (e.g., Uno, Nano)
-
-Microphone
-
 Computer with Python installed
 
 ⚡ Configuration
